@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aslibaraf
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning
+- 👀 I’m fulltime Quantitative Analyst  & Researcher.
+
 - 📫 How to reach me https://www.linkedin.com/in/aslibaraf/
 
 <!---
